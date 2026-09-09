@@ -103,19 +103,19 @@ The forecast covers January to June 2026 and evaluates:
 
 Provides a management level view of demand, capacity, fulfilment, cancellations and monthly capacity trends.
 
-![Executive Overview](Executive%20Overview.png)
+![Executive Overview](Executive%20Overview%20dashboard.png)
 
 ### Capacity and Risk Intelligence
 
 Identifies capacity pressure by location, operational risk levels, promotion impact and the relationship between capacity utilisation and service delays.
 
-![Capacity and Risk Intelligence](Capacity%20and%20Risk%20Intelligence.png)
+![Capacity and Risk Intelligence](Capacity%20%26%20Risk%20Intelligence%20Dashboard.png)
 
 ### 2026 Forecast and Capacity Planning
 
 Shows forecast demand, planning capacity, projected capacity gaps, risk levels and additional capacity requirements for January to June 2026.
 
-![2026 Forecast and Capacity Planning](2026%20Forecast%20and%20Capacity%20Planning.png)
+![2026 Forecast and Capacity Planning](2026%20Forecast%20%26%20Capacity%20Planning%20Dashboard.png)
 
 ## Key Findings
 
@@ -154,16 +154,18 @@ The analysis suggests that monitoring capacity gaps as an early warning indicato
 
 ## Project Files
 
+## Project Files
+
 | File | Purpose |
 |---|---|
-| `Nexora_Operations_Demand_Capacity_Intelligence_Engine.xlsx` | Excel analysis, calculations, forecasting inputs and scenario planning |
-| `Nexora Operations SQL.sql` | PostgreSQL data validation, KPI analysis and business queries |
-| `Nexora Demand Capacity Intelligence Engine.ipynb` | Python forecasting, model comparison and visualisation |
-| `Nexora Forecast 2026.csv` | 2026 forecast and capacity planning outputs |
-| `Nexora_Operations_Demand_Capacity_Intelligence_Engine.pbix` | Complete interactive Power BI dashboard |
-| `Executive Overview.png` | Executive Overview dashboard screenshot |
-| `Capacity and Risk Intelligence.png` | Capacity and Risk Intelligence dashboard screenshot |
-| `2026 Forecast and Capacity Planning.png` | 2026 Forecast and Capacity Planning dashboard screenshot |
+| `Nexora Operations Demand Capacity Intelligence Engine.xlsx` | Excel analysis, calculations, forecasting inputs and scenario planning |
+| `Nexora Monthly Demand Forecast.sql` | PostgreSQL data validation, KPI analysis, demand and capacity analysis, risk identification and business queries |
+| `Nexora Demand Capacity Intelligence Engine.ipynb` | Python forecasting, model comparison and analytical visualisation |
+| `Nexora Forecast 2026(in).csv` | 2026 forecast and capacity planning outputs used for the Power BI analysis |
+| `Nexora Operations Demand Capacity Intelligence Engine.pbix` | Complete interactive Power BI dashboard |
+| `Executive Overview dashboard.png` | Executive Overview dashboard screenshot |
+| `Capacity & Risk Intelligence Dashboard.png` | Capacity and Risk Intelligence dashboard screenshot |
+| `2026 Forecast & Capacity Planning Dashboard.png` | 2026 Forecast and Capacity Planning dashboard screenshot |
 
 ## Outcome
 
