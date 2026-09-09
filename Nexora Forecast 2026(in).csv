@@ -1,0 +1,7 @@
+﻿Month,Forecast_Demand,Planning_Capacity,Capacity_Gap,Utilisation_Rate,Risk_Level,Forecast_Method,Required_Additional_Capacity
+1/1/2026,155605,149920.33,5684.67,103.79,Critical,3-Month Moving Average,5684.67
+2/1/2026,155765,149920.33,5844.67,103.9,Critical,3-Month Moving Average,5844.67
+3/1/2026,154497.67,149920.33,4577.34,103.05,Critical,3-Month Moving Average,4577.34
+4/1/2026,155289.22,149920.33,5368.89,103.58,Critical,3-Month Moving Average,5368.89
+5/1/2026,155183.96,149920.33,5263.63,103.51,Critical,3-Month Moving Average,5263.63
+6/1/2026,154990.28,149920.33,5069.95,103.38,Critical,3-Month Moving Average,5069.95
